@@ -1,1 +1,1 @@
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mirekys&skills=Batchfile,React,Vue,PHP,Python,Go,Typescript,JavaScript,Shell,JSON,HTML,CSS,SCSS,LESS&show-other-skills=true" />
+
